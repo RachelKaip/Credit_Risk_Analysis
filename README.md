@@ -56,12 +56,15 @@ Next, we decided to change things up and try undersampling as opposed to oversam
 
 - this model recieved an accuracy score of 54%. 
 
+![clusteraccuracy](https://user-images.githubusercontent.com/94569240/163396488-50766444-c57f-4a36-aa9c-e0c9c80451e1.PNG)
 
 - For the classification report, this model produced a:
   -  precision rate of 1% for the high risk applications
   -  recall rate at 69% for the high risk applications
   -  precision rate of 100% for the low risk applications
   -  recall rate at 40% for the low risk applications
+
+![clusterclassification](https://user-images.githubusercontent.com/94569240/163396519-919ded21-9e85-43a4-943d-e4a4a09324fb.PNG)
 
 ### Using SMOTEEN to Predict Credit Risk 
 #### SMOTEEN   
